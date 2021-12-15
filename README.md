@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rasmus and im using my Son`s profile picture... because my ugly old smuck is not so bleasing to stare... so enyoy
+- 👋 Hi, I’m Rasmus and im using my Son`s profile picture... because my ugly old smuck is not so bleasing to stare... so enjoy
 - 👀 I’m interested in UAVs / UGVs and Automated Unmanned RAD-systems (recce/attack/defence)
 - 🌱 I’m currently discovering Python... Monty Python
 - 💞️ I’m looking to collaborate on Digital SDR and signal directon/location finding processing systems (Kraken-SDR)
